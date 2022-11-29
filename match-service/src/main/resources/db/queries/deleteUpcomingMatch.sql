@@ -1,0 +1,1 @@
+DELETE FROM matches WHERE match_id=:match_id AND home_team_score IS NULL AND away_team_score IS NULL

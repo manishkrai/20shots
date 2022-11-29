@@ -1,0 +1,1 @@
+INSERT INTO matches(match_start_time,home_team_id, away_team_id) VALUES(:match_start_time, :home_team_id, :away_team_id)
